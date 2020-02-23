@@ -1,0 +1,5 @@
+/dependencies
+*.o
+*.a
+*.hex
+*.elf
