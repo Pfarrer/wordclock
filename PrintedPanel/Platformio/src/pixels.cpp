@@ -14,7 +14,7 @@
 #define NS_TO_CYCLES(n) ((n) / NS_PER_CYCLE)
 
 #define showWord_its() this->setWordColor(141, 3)
-#define showWord_about(offset) this->setWordColor(135, 5, 0b00000001)
+#define showWord_about(offset) this->setWordColor(135, 5)
 #define showWord_twenty() this->setWordColor(120, 6)
 #define showWord_ten() this->setWordColor(127, 3)
 #define showWord_five() this->setWordColor(116, 4)

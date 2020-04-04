@@ -3,7 +3,7 @@
 
 #define PIXELS_OUTPUT_PIN PB4
 #define NUM_PIXELS 144
-#define COLOR_DEFAULT 0b00000001
+#define COLOR_DEFAULT 0b00000011
 
 #include <stdint.h>
 #include <stdlib.h>
